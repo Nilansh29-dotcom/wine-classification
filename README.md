@@ -25,7 +25,7 @@ This project classifies wines into different categories based on their chemical 
 ##  Model Performance
 
 * Accuracy: 68%
-* Confusion Matrix used for evaluation
+* Confusion Matrix, f1 score and precision-recall used for evaluation
 
 ## How to Run
 
